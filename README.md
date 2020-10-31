@@ -1,2 +1,3 @@
 # jot
+/jät/
 Note taker
