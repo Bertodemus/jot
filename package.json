@@ -1,15 +1,25 @@
 {
-  "name": "note-taker",
+  "name": "jot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple note taking app.",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "uuid": "^8.3.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bertodemus/jot.git"
+  },
+  "author": "Bertodemus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bertodemus/jot/issues"
+  },
+  "homepage": "https://github.com/Bertodemus/jot#readme"
 }
