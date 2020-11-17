@@ -1,7 +1,7 @@
 ![logo](./public/assets/images/Jot.png)
 # Jot /jät/ it down!
 
-Jot is a small application that allows you to write, save, and delete notes. It keeps perisistent notes, which makes the information available to you when needed.
+Jot is a small application that allows you to write, save, and delete notes. It keeps persistent notes, which makes the information available to you when needed.
 
 
 ## Table of Contents
